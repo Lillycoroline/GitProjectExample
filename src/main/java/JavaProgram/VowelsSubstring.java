@@ -43,6 +43,11 @@ public class VowelsSubstring {
 				System.out.println("Vowelcount :" +vowelcount);
 				System.out.println("Consonantcount :" +constantcount);
 				System.out.println("Specialcount :" +specialcount);
+				System.out.println(x.length());
+				System.out.println("Vowelcount :" +vowelcount);
+				System.out.println("Consonantcount :" +constantcount);
+				System.out.println("Specialcount :" +specialcount);
+
 
 	}
 }
